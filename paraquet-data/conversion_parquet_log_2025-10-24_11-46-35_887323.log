@@ -1,0 +1,174 @@
+2025-10-24 11:46:35 | INFO | Processing Level 1: raw-data\LEVEL - 01(Section 1 and 1.1).sav
+2025-10-24 11:46:40 | INFO | Save chunk 1 of lev_01.parquet with rows 0 to 199999
+2025-10-24 11:46:40 | INFO | Save chunk 2 of lev_01.parquet with rows 200000 to 261952
+2025-10-24 11:46:40 | INFO | Saved metadata for Level 1
+2025-10-24 11:46:40 | INFO | Processing Level 2: raw-data\LEVEL - 02 (Section 3).sav
+2025-10-24 11:46:40 | ERROR | Error processing Level 2: index 0 is out of bounds for axis 0 with size 0
+2025-10-24 11:46:40 | INFO | Processing Level 3: raw-data\LEVEL - 03.sav
+2025-10-24 11:46:49 | INFO | Save chunk 1 of lev_03.parquet with rows 0 to 199999
+2025-10-24 11:46:49 | INFO | Save chunk 2 of lev_03.parquet with rows 200000 to 261952
+2025-10-24 11:46:49 | INFO | Saved metadata for Level 3
+2025-10-24 11:46:49 | INFO | Processing Level 4: raw-data\LEVEL - 04 (Section 4.1).sav
+2025-10-24 11:46:57 | INFO | Save chunk 1 of lev_04.parquet with rows 0 to 199999
+2025-10-24 11:46:57 | INFO | Save chunk 2 of lev_04.parquet with rows 200000 to 261952
+2025-10-24 11:46:57 | INFO | Saved metadata for Level 4
+2025-10-24 11:46:57 | INFO | Processing Level 5: raw-data\LEVEL - 05 ( Sec 5 & 6).dta
+2025-10-24 11:53:51 | INFO | Save chunk 1 of lev_05.parquet with rows 0 to 199999
+2025-10-24 11:53:53 | INFO | Save chunk 2 of lev_05.parquet with rows 200000 to 399999
+2025-10-24 11:53:54 | INFO | Save chunk 3 of lev_05.parquet with rows 400000 to 599999
+2025-10-24 11:53:55 | INFO | Save chunk 4 of lev_05.parquet with rows 600000 to 799999
+2025-10-24 11:53:57 | INFO | Save chunk 5 of lev_05.parquet with rows 800000 to 999999
+2025-10-24 11:53:58 | INFO | Save chunk 6 of lev_05.parquet with rows 1000000 to 1199999
+2025-10-24 11:53:59 | INFO | Save chunk 7 of lev_05.parquet with rows 1200000 to 1399999
+2025-10-24 11:54:01 | INFO | Save chunk 8 of lev_05.parquet with rows 1400000 to 1599999
+2025-10-24 11:54:02 | INFO | Save chunk 9 of lev_05.parquet with rows 1600000 to 1799999
+2025-10-24 11:54:03 | INFO | Save chunk 10 of lev_05.parquet with rows 1800000 to 1999999
+2025-10-24 11:54:05 | INFO | Save chunk 11 of lev_05.parquet with rows 2000000 to 2199999
+2025-10-24 11:54:06 | INFO | Save chunk 12 of lev_05.parquet with rows 2200000 to 2399999
+2025-10-24 11:54:07 | INFO | Save chunk 13 of lev_05.parquet with rows 2400000 to 2599999
+2025-10-24 11:54:09 | INFO | Save chunk 14 of lev_05.parquet with rows 2600000 to 2799999
+2025-10-24 11:54:10 | INFO | Save chunk 15 of lev_05.parquet with rows 2800000 to 2999999
+2025-10-24 11:54:11 | INFO | Save chunk 16 of lev_05.parquet with rows 3000000 to 3199999
+2025-10-24 11:54:12 | INFO | Save chunk 17 of lev_05.parquet with rows 3200000 to 3399999
+2025-10-24 11:54:14 | INFO | Save chunk 18 of lev_05.parquet with rows 3400000 to 3599999
+2025-10-24 11:54:15 | INFO | Save chunk 19 of lev_05.parquet with rows 3600000 to 3799999
+2025-10-24 11:54:16 | INFO | Save chunk 20 of lev_05.parquet with rows 3800000 to 3999999
+2025-10-24 11:54:18 | INFO | Save chunk 21 of lev_05.parquet with rows 4000000 to 4199999
+2025-10-24 11:54:19 | INFO | Save chunk 22 of lev_05.parquet with rows 4200000 to 4399999
+2025-10-24 11:54:20 | INFO | Save chunk 23 of lev_05.parquet with rows 4400000 to 4599999
+2025-10-24 11:54:21 | INFO | Save chunk 24 of lev_05.parquet with rows 4600000 to 4799999
+2025-10-24 11:54:23 | INFO | Save chunk 25 of lev_05.parquet with rows 4800000 to 4999999
+2025-10-24 11:54:24 | INFO | Save chunk 26 of lev_05.parquet with rows 5000000 to 5199999
+2025-10-24 11:54:25 | INFO | Save chunk 27 of lev_05.parquet with rows 5200000 to 5399999
+2025-10-24 11:54:27 | INFO | Save chunk 28 of lev_05.parquet with rows 5400000 to 5599999
+2025-10-24 11:54:28 | INFO | Save chunk 29 of lev_05.parquet with rows 5600000 to 5799999
+2025-10-24 11:54:29 | INFO | Save chunk 30 of lev_05.parquet with rows 5800000 to 5999999
+2025-10-24 11:54:31 | INFO | Save chunk 31 of lev_05.parquet with rows 6000000 to 6199999
+2025-10-24 11:54:32 | INFO | Save chunk 32 of lev_05.parquet with rows 6200000 to 6399999
+2025-10-24 11:54:33 | INFO | Save chunk 33 of lev_05.parquet with rows 6400000 to 6599999
+2025-10-24 11:54:35 | INFO | Save chunk 34 of lev_05.parquet with rows 6600000 to 6799999
+2025-10-24 11:54:36 | INFO | Save chunk 35 of lev_05.parquet with rows 6800000 to 6999999
+2025-10-24 11:54:38 | INFO | Save chunk 36 of lev_05.parquet with rows 7000000 to 7199999
+2025-10-24 11:54:39 | INFO | Save chunk 37 of lev_05.parquet with rows 7200000 to 7399999
+2025-10-24 11:54:40 | INFO | Save chunk 38 of lev_05.parquet with rows 7400000 to 7599999
+2025-10-24 11:54:42 | INFO | Save chunk 39 of lev_05.parquet with rows 7600000 to 7799999
+2025-10-24 11:54:43 | INFO | Save chunk 40 of lev_05.parquet with rows 7800000 to 7999999
+2025-10-24 11:54:45 | INFO | Save chunk 41 of lev_05.parquet with rows 8000000 to 8199999
+2025-10-24 11:54:46 | INFO | Save chunk 42 of lev_05.parquet with rows 8200000 to 8399999
+2025-10-24 11:54:48 | INFO | Save chunk 43 of lev_05.parquet with rows 8400000 to 8599999
+2025-10-24 11:54:49 | INFO | Save chunk 44 of lev_05.parquet with rows 8600000 to 8799999
+2025-10-24 11:54:51 | INFO | Save chunk 45 of lev_05.parquet with rows 8800000 to 8999999
+2025-10-24 11:54:52 | INFO | Save chunk 46 of lev_05.parquet with rows 9000000 to 9199999
+2025-10-24 11:54:54 | INFO | Save chunk 47 of lev_05.parquet with rows 9200000 to 9399999
+2025-10-24 11:54:55 | INFO | Save chunk 48 of lev_05.parquet with rows 9400000 to 9599999
+2025-10-24 11:54:57 | INFO | Save chunk 49 of lev_05.parquet with rows 9600000 to 9799999
+2025-10-24 11:54:59 | INFO | Save chunk 50 of lev_05.parquet with rows 9800000 to 9999999
+2025-10-24 11:55:01 | INFO | Save chunk 51 of lev_05.parquet with rows 10000000 to 10199999
+2025-10-24 11:55:02 | INFO | Save chunk 52 of lev_05.parquet with rows 10200000 to 10399999
+2025-10-24 11:55:04 | INFO | Save chunk 53 of lev_05.parquet with rows 10400000 to 10599999
+2025-10-24 11:55:58 | INFO | Save chunk 54 of lev_05.parquet with rows 10600000 to 10799999
+2025-10-24 11:56:00 | INFO | Save chunk 55 of lev_05.parquet with rows 10800000 to 10999999
+2025-10-24 11:56:02 | INFO | Save chunk 56 of lev_05.parquet with rows 11000000 to 11199999
+2025-10-24 11:56:03 | INFO | Save chunk 57 of lev_05.parquet with rows 11200000 to 11399999
+2025-10-24 11:56:05 | INFO | Save chunk 58 of lev_05.parquet with rows 11400000 to 11599999
+2025-10-24 11:56:08 | INFO | Save chunk 59 of lev_05.parquet with rows 11600000 to 11799999
+2025-10-24 11:56:10 | INFO | Save chunk 60 of lev_05.parquet with rows 11800000 to 11999999
+2025-10-24 11:56:11 | INFO | Save chunk 61 of lev_05.parquet with rows 12000000 to 12199999
+2025-10-24 11:56:13 | INFO | Save chunk 62 of lev_05.parquet with rows 12200000 to 12399999
+2025-10-24 11:56:14 | INFO | Save chunk 63 of lev_05.parquet with rows 12400000 to 12599999
+2025-10-24 11:56:16 | INFO | Save chunk 64 of lev_05.parquet with rows 12600000 to 12754436
+2025-10-24 11:56:16 | INFO | Saved metadata for Level 5
+2025-10-24 11:56:16 | INFO | Processing Level 6: raw-data\LEVEL - 06 (Section 7).dta
+2025-10-24 11:57:41 | INFO | Save chunk 1 of lev_06.parquet with rows 0 to 199999
+2025-10-24 11:57:43 | INFO | Save chunk 2 of lev_06.parquet with rows 200000 to 399999
+2025-10-24 11:57:45 | INFO | Save chunk 3 of lev_06.parquet with rows 400000 to 599999
+2025-10-24 11:57:46 | INFO | Save chunk 4 of lev_06.parquet with rows 600000 to 799999
+2025-10-24 11:57:48 | INFO | Save chunk 5 of lev_06.parquet with rows 800000 to 999999
+2025-10-24 11:57:50 | INFO | Save chunk 6 of lev_06.parquet with rows 1000000 to 1199999
+2025-10-24 11:57:51 | INFO | Save chunk 7 of lev_06.parquet with rows 1200000 to 1399999
+2025-10-24 11:57:53 | INFO | Save chunk 8 of lev_06.parquet with rows 1400000 to 1599999
+2025-10-24 11:57:54 | INFO | Save chunk 9 of lev_06.parquet with rows 1600000 to 1757263
+2025-10-24 11:57:54 | INFO | Saved metadata for Level 6
+2025-10-24 11:57:54 | INFO | Processing Level 7: raw-data\LEVEL - 07 (Section 4.dta
+2025-10-24 11:58:05 | INFO | Save chunk 1 of lev_07.parquet with rows 0 to 199999
+2025-10-24 11:58:05 | INFO | Save chunk 2 of lev_07.parquet with rows 200000 to 261952
+2025-10-24 11:58:05 | INFO | Saved metadata for Level 7
+2025-10-24 11:58:05 | INFO | Processing Level 8: raw-data\LEVEL - 08 (Section 8.dta
+2025-10-24 11:58:37 | INFO | Save chunk 1 of lev_08.parquet with rows 0 to 199999
+2025-10-24 11:58:38 | INFO | Save chunk 2 of lev_08.parquet with rows 200000 to 399999
+2025-10-24 11:58:39 | INFO | Save chunk 3 of lev_08.parquet with rows 400000 to 599999
+2025-10-24 11:58:40 | INFO | Save chunk 4 of lev_08.parquet with rows 600000 to 799999
+2025-10-24 11:58:41 | INFO | Save chunk 5 of lev_08.parquet with rows 800000 to 999999
+2025-10-24 11:58:43 | INFO | Save chunk 6 of lev_08.parquet with rows 1000000 to 1199999
+2025-10-24 11:58:44 | INFO | Save chunk 7 of lev_08.parquet with rows 1200000 to 1399999
+2025-10-24 11:58:44 | INFO | Save chunk 8 of lev_08.parquet with rows 1400000 to 1499970
+2025-10-24 11:58:44 | INFO | Saved metadata for Level 8
+2025-10-24 11:58:44 | INFO | Processing Level 9: raw-data\LEVEL - 09 (Section 9 & 10 & 11).dta
+2025-10-24 12:02:25 | INFO | Save chunk 1 of lev_09.parquet with rows 0 to 199999
+2025-10-24 12:02:26 | INFO | Save chunk 2 of lev_09.parquet with rows 200000 to 399999
+2025-10-24 12:02:27 | INFO | Save chunk 3 of lev_09.parquet with rows 400000 to 599999
+2025-10-24 12:02:28 | INFO | Save chunk 4 of lev_09.parquet with rows 600000 to 799999
+2025-10-24 12:02:29 | INFO | Save chunk 5 of lev_09.parquet with rows 800000 to 999999
+2025-10-24 12:02:30 | INFO | Save chunk 6 of lev_09.parquet with rows 1000000 to 1199999
+2025-10-24 12:02:31 | INFO | Save chunk 7 of lev_09.parquet with rows 1200000 to 1399999
+2025-10-24 12:02:32 | INFO | Save chunk 8 of lev_09.parquet with rows 1400000 to 1599999
+2025-10-24 12:02:33 | INFO | Save chunk 9 of lev_09.parquet with rows 1600000 to 1799999
+2025-10-24 12:02:35 | INFO | Save chunk 10 of lev_09.parquet with rows 1800000 to 1999999
+2025-10-24 12:02:36 | INFO | Save chunk 11 of lev_09.parquet with rows 2000000 to 2199999
+2025-10-24 12:02:37 | INFO | Save chunk 12 of lev_09.parquet with rows 2200000 to 2399999
+2025-10-24 12:02:38 | INFO | Save chunk 13 of lev_09.parquet with rows 2400000 to 2599999
+2025-10-24 12:02:39 | INFO | Save chunk 14 of lev_09.parquet with rows 2600000 to 2799999
+2025-10-24 12:02:40 | INFO | Save chunk 15 of lev_09.parquet with rows 2800000 to 2999999
+2025-10-24 12:02:41 | INFO | Save chunk 16 of lev_09.parquet with rows 3000000 to 3199999
+2025-10-24 12:02:42 | INFO | Save chunk 17 of lev_09.parquet with rows 3200000 to 3399999
+2025-10-24 12:02:43 | INFO | Save chunk 18 of lev_09.parquet with rows 3400000 to 3599999
+2025-10-24 12:02:44 | INFO | Save chunk 19 of lev_09.parquet with rows 3600000 to 3799999
+2025-10-24 12:02:45 | INFO | Save chunk 20 of lev_09.parquet with rows 3800000 to 3999999
+2025-10-24 12:02:46 | INFO | Save chunk 21 of lev_09.parquet with rows 4000000 to 4199999
+2025-10-24 12:02:48 | INFO | Save chunk 22 of lev_09.parquet with rows 4200000 to 4399999
+2025-10-24 12:02:49 | INFO | Save chunk 23 of lev_09.parquet with rows 4400000 to 4599999
+2025-10-24 12:02:50 | INFO | Save chunk 24 of lev_09.parquet with rows 4600000 to 4799999
+2025-10-24 12:02:51 | INFO | Save chunk 25 of lev_09.parquet with rows 4800000 to 4999999
+2025-10-24 12:02:52 | INFO | Save chunk 26 of lev_09.parquet with rows 5000000 to 5199999
+2025-10-24 12:02:53 | INFO | Save chunk 27 of lev_09.parquet with rows 5200000 to 5399999
+2025-10-24 12:02:54 | INFO | Save chunk 28 of lev_09.parquet with rows 5400000 to 5599999
+2025-10-24 12:02:55 | INFO | Save chunk 29 of lev_09.parquet with rows 5600000 to 5799999
+2025-10-24 12:02:56 | INFO | Save chunk 30 of lev_09.parquet with rows 5800000 to 5999999
+2025-10-24 12:02:57 | INFO | Save chunk 31 of lev_09.parquet with rows 6000000 to 6199999
+2025-10-24 12:02:59 | INFO | Save chunk 32 of lev_09.parquet with rows 6200000 to 6399999
+2025-10-24 12:03:00 | INFO | Save chunk 33 of lev_09.parquet with rows 6400000 to 6599999
+2025-10-24 12:03:01 | INFO | Save chunk 34 of lev_09.parquet with rows 6600000 to 6799999
+2025-10-24 12:03:02 | INFO | Save chunk 35 of lev_09.parquet with rows 6800000 to 6999999
+2025-10-24 12:03:03 | INFO | Save chunk 36 of lev_09.parquet with rows 7000000 to 7199999
+2025-10-24 12:03:04 | INFO | Save chunk 37 of lev_09.parquet with rows 7200000 to 7399999
+2025-10-24 12:03:05 | INFO | Save chunk 38 of lev_09.parquet with rows 7400000 to 7599999
+2025-10-24 12:03:06 | INFO | Save chunk 39 of lev_09.parquet with rows 7600000 to 7799999
+2025-10-24 12:03:07 | INFO | Save chunk 40 of lev_09.parquet with rows 7800000 to 7999999
+2025-10-24 12:03:08 | INFO | Save chunk 41 of lev_09.parquet with rows 8000000 to 8199999
+2025-10-24 12:03:09 | INFO | Save chunk 42 of lev_09.parquet with rows 8200000 to 8259119
+2025-10-24 12:03:09 | INFO | Saved metadata for Level 9
+2025-10-24 12:03:09 | INFO | Processing Level 10: raw-data\LEVEL - 10 (Section 12).dta
+2025-10-24 12:03:31 | INFO | Save chunk 1 of lev_10.parquet with rows 0 to 199999
+2025-10-24 12:03:33 | INFO | Save chunk 2 of lev_10.parquet with rows 200000 to 399999
+2025-10-24 12:03:34 | INFO | Save chunk 3 of lev_10.parquet with rows 400000 to 599999
+2025-10-24 12:03:35 | INFO | Save chunk 4 of lev_10.parquet with rows 600000 to 799999
+2025-10-24 12:03:36 | INFO | Save chunk 5 of lev_10.parquet with rows 800000 to 829309
+2025-10-24 12:03:36 | INFO | Saved metadata for Level 10
+2025-10-24 12:03:36 | INFO | Processing Level 11: raw-data\LEVEL - 11 (Section 4.dta
+2025-10-24 12:22:26 | INFO | Save chunk 1 of lev_11.parquet with rows 0 to 199999
+2025-10-24 12:22:27 | INFO | Save chunk 2 of lev_11.parquet with rows 200000 to 261952
+2025-10-24 12:22:27 | INFO | Saved metadata for Level 11
+2025-10-24 12:22:27 | INFO | Processing Level 12: raw-data\LEVEL - 12 (Section 13).dta
+2025-10-24 12:22:27 | ERROR | Error processing Level 12: Invalid file, or file has unsupported features
+2025-10-24 12:22:27 | INFO | Processing Level 13: raw-data\Level - 13 (Section 14).dta
+2025-10-24 12:22:27 | ERROR | Error processing Level 13: Invalid file, or file has unsupported features
+2025-10-24 12:22:27 | INFO | Processing Level 14: raw-data\LEVEL - 14 (Section  A1,B1 & C1).dta
+2025-10-24 12:22:27 | ERROR | Error processing Level 14: Invalid file, or file has unsupported features
+2025-10-24 12:22:27 | INFO | Processing Level 15: raw-data\LEVEL - 15 (Section 1.dta
+2025-10-24 12:22:52 | INFO | Save chunk 1 of lev_15.parquet with rows 0 to 199999
+2025-10-24 12:22:53 | INFO | Save chunk 2 of lev_15.parquet with rows 200000 to 399999
+2025-10-24 12:22:55 | INFO | Save chunk 3 of lev_15.parquet with rows 400000 to 599999
+2025-10-24 12:22:56 | INFO | Save chunk 4 of lev_15.parquet with rows 600000 to 799999
+2025-10-24 12:22:57 | INFO | Save chunk 5 of lev_15.parquet with rows 800000 to 999999
+2025-10-24 12:22:58 | INFO | Save chunk 6 of lev_15.parquet with rows 1000000 to 1047811
+2025-10-24 12:22:58 | INFO | Saved metadata for Level 15
