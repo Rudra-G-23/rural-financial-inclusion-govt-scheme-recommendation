@@ -4,11 +4,12 @@
 
 ### Data ###
 raw-data/
+parquet-data/
 *.parquet
-*.json
 *.sav
 *.dta 
 *.missRecode
+*.txt
 *.csv
 *.dat
 *.efx

@@ -1,0 +1,18 @@
+2025-10-24 19:44:28 | INFO | Processing Level 2: C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\raw-data\LEVEL - 02 (Section 3).dta 
+
+2025-10-24 19:44:59 | INFO | Save chunk 1 of lev_02.parquet with rows 0 to 199999
+2025-10-24 19:45:01 | INFO | Save chunk 2 of lev_02.parquet with rows 200000 to 399999
+2025-10-24 19:45:03 | INFO | Save chunk 3 of lev_02.parquet with rows 400000 to 599999
+2025-10-24 19:45:05 | INFO | Save chunk 4 of lev_02.parquet with rows 600000 to 799999
+2025-10-24 19:45:07 | INFO | Save chunk 5 of lev_02.parquet with rows 800000 to 999999
+2025-10-24 19:45:09 | INFO | Save chunk 6 of lev_02.parquet with rows 1000000 to 1107220
+2025-10-24 19:45:09 | INFO | Saved metadata for Level 2
+2025-10-24 19:45:09 | INFO | Processing Level 12: C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\raw-data\LEVEL - 12 (Section 13).dta 
+
+2025-10-24 19:45:09 | ERROR | Level 12 - Pyreadstat failed: Invalid file, or file has unsupported features
+2025-10-24 19:45:09 | INFO | Processing Level 13: C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\raw-data\Level - 13 (Section 14).dta 
+
+2025-10-24 19:45:09 | ERROR | Level 13 - Pyreadstat failed: Invalid file, or file has unsupported features
+2025-10-24 19:45:09 | INFO | Processing Level 14: C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\raw-data\LEVEL - 14 (Section  A1,B1 & C1).dta 
+
+2025-10-24 19:45:09 | ERROR | Level 14 - Pyreadstat failed: Invalid file, or file has unsupported features
