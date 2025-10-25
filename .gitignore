@@ -2,7 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,data,git,python,venv,vs
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,data,git,python,venv,vs
 
-## Remove from me 
+## Remove from local files
+delete/
 parquet-data/lev-02/lev-02-data-convertor.ipynb
 
 ### Data ###

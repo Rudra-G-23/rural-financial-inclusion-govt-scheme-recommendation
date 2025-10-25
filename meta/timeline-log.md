@@ -20,3 +20,7 @@
   - Create the data profiling on each level.
     - If dataset is more than 500 MB 
     - Then it take only 2_000_000 rows 19:42 IST
+  - Generate the auto viz to Visualize the data
+    - Take the sample of 1_00_000 rows 
+    - I think it take time 😅 Now is 21:30 IST
+    - Check the log for more details Now done 23:26 IST

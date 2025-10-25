@@ -1,0 +1,108 @@
+2025-10-25 21:13:11.261 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01\lev-01_merged.csv
+2025-10-25 21:13:20.973 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-01 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 21:13:21.009 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-02\lev-02_merged.csv
+2025-10-25 21:40:44.242 | ERROR    | __main__:<module>:67 - ----->>> Error at lev-02: Dimensions may not reference duplicated DataFrame columns (found duplicate 'Meals_From' columns). If you want to plot a column against itself simply declare two dimensions with the same name.
+
+PandasInterface expects tabular data, for more information on supported datatypes see https://holoviews.org/user_guide/Tabular_Datasets.html
+
+2025-10-25 21:40:44.244 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03\lev-03_merged.csv
+2025-10-25 21:52:53.170 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-03 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 21:52:53.237 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04\lev-04_merged.csv
+2025-10-25 21:53:02.283 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-04 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 21:53:02.318 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev-05_merged.csv
+2025-10-25 21:56:27.922 | ERROR    | __main__:<module>:67 - ----->>> Error at lev-05: Dimensions may not reference duplicated DataFrame columns (found duplicate 'Total_Cons' columns). If you want to plot a column against itself simply declare two dimensions with the same name.
+
+PandasInterface expects tabular data, for more information on supported datatypes see https://holoviews.org/user_guide/Tabular_Datasets.html
+
+2025-10-25 21:56:27.925 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev-06_merged.csv
+2025-10-25 21:58:08.915 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-06 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 21:58:08.980 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07\lev-07_merged.csv
+2025-10-25 22:08:37.170 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-07 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 22:08:37.189 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev-08_merged.csv
+2025-10-25 22:11:43.749 | ERROR    | __main__:<module>:67 - ----->>> Error at lev-08: Dimensions may not reference duplicated DataFrame columns (found duplicate 'Out_of_hom' columns). If you want to plot a column against itself simply declare two dimensions with the same name.
+
+PandasInterface expects tabular data, for more information on supported datatypes see https://holoviews.org/user_guide/Tabular_Datasets.html
+
+2025-10-25 22:11:43.767 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev-09_merged.csv
+2025-10-25 22:54:07.032 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-09 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 22:54:07.867 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev-10_merged.csv
+2025-10-25 22:56:18.896 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-10 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 22:56:18.945 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11\lev-11_merged.csv
+2025-10-25 22:56:27.736 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-11 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 22:56:27.768 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev-12_merged.csv
+2025-10-25 22:57:03.522 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-12 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 22:57:03.920 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev-13_merged.csv
+2025-10-25 23:01:38.060 | ERROR    | __main__:<module>:67 - ----->>> Error at lev-13: Dimensions may not reference duplicated DataFrame columns (found duplicate 'FIRST_PURC' columns). If you want to plot a column against itself simply declare two dimensions with the same name.
+
+PandasInterface expects tabular data, for more information on supported datatypes see https://holoviews.org/user_guide/Tabular_Datasets.html
+
+2025-10-25 23:01:38.064 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev-14_merged.csv
+2025-10-25 23:02:51.441 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-14 AutoViz Report Created. =========================== 
+
+
+
+2025-10-25 23:02:52.090 | INFO     | __main__:<module>:42 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev-15_merged.csv
+2025-10-25 23:14:10.879 | SUCCESS  | __main__:<module>:61 - 
+
+
+ =========================== lev-15 AutoViz Report Created. =========================== 
+
+
+
