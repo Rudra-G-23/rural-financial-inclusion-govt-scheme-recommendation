@@ -1,0 +1,140 @@
+2025-10-25 19:39:04.475 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01\lev-01_merged.csv
+2025-10-25 19:39:07.132 | INFO     | __main__:<module>:39 - Data loaded. Shape: (1309765, 21)
+2025-10-25 19:39:20.023 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-01 Report Created. =========================== 
+
+
+
+2025-10-25 19:39:20.070 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-02\lev-02_merged.csv
+2025-10-25 19:39:23.777 | INFO     | __main__:<module>:39 - Data loaded. Shape: (1107221, 36)
+2025-10-25 19:39:52.477 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-02 Report Created. =========================== 
+
+
+
+2025-10-25 19:39:52.530 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03\lev-03_merged.csv
+2025-10-25 19:39:56.652 | INFO     | __main__:<module>:39 - Data loaded. Shape: (1047812, 40)
+2025-10-25 19:40:27.748 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-03 Report Created. =========================== 
+
+
+
+2025-10-25 19:40:27.819 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04\lev-04_merged.csv
+2025-10-25 19:40:31.129 | INFO     | __main__:<module>:39 - Data loaded. Shape: (785859, 38)
+2025-10-25 19:40:49.299 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-04 Report Created. =========================== 
+
+
+
+2025-10-25 19:40:49.355 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev-05_merged.csv
+2025-10-25 19:40:49.357 | INFO     | __main__:<module>:34 - Large file (1971.5 MB). Sampling 250,000 rows for profiling.
+2025-10-25 19:40:54.358 | INFO     | __main__:<module>:39 - Data loaded. Shape: (2000000, 25)
+2025-10-25 19:41:23.134 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-05 Report Created. =========================== 
+
+
+
+2025-10-25 19:41:23.237 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev-06_merged.csv
+2025-10-25 19:41:31.020 | INFO     | __main__:<module>:39 - Data loaded. Shape: (3514528, 23)
+2025-10-25 19:42:06.884 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-06 Report Created. =========================== 
+
+
+
+2025-10-25 19:42:07.049 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07\lev-07_merged.csv
+2025-10-25 19:42:09.118 | INFO     | __main__:<module>:39 - Data loaded. Shape: (523906, 47)
+2025-10-25 19:42:34.258 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-07 Report Created. =========================== 
+
+
+
+2025-10-25 19:42:34.301 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev-08_merged.csv
+2025-10-25 19:42:41.867 | INFO     | __main__:<module>:39 - Data loaded. Shape: (2999942, 25)
+2025-10-25 19:42:59.897 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-08 Report Created. =========================== 
+
+
+
+2025-10-25 19:43:00.058 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev-09_merged.csv
+2025-10-25 19:43:00.058 | INFO     | __main__:<module>:34 - Large file (1126.5 MB). Sampling 250,000 rows for profiling.
+2025-10-25 19:43:04.202 | INFO     | __main__:<module>:39 - Data loaded. Shape: (2000000, 21)
+2025-10-25 19:43:29.769 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-09 Report Created. =========================== 
+
+
+
+2025-10-25 19:43:29.841 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev-10_merged.csv
+2025-10-25 19:43:33.970 | INFO     | __main__:<module>:39 - Data loaded. Shape: (1658620, 25)
+2025-10-25 19:44:00.591 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-10 Report Created. =========================== 
+
+
+
+2025-10-25 19:44:00.654 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11\lev-11_merged.csv
+2025-10-25 19:44:03.172 | INFO     | __main__:<module>:39 - Data loaded. Shape: (523906, 59)
+2025-10-25 19:44:31.705 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-11 Report Created. =========================== 
+
+
+
+2025-10-25 19:44:31.753 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev-12_merged.csv
+2025-10-25 19:44:31.753 | INFO     | __main__:<module>:34 - Large file (679.2 MB). Sampling 250,000 rows for profiling.
+2025-10-25 19:44:36.331 | INFO     | __main__:<module>:39 - Data loaded. Shape: (2000000, 22)
+2025-10-25 19:45:01.745 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-12 Report Created. =========================== 
+
+
+
+2025-10-25 19:45:01.824 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev-13_merged.csv
+2025-10-25 19:45:01.824 | INFO     | __main__:<module>:34 - Large file (799.6 MB). Sampling 250,000 rows for profiling.
+2025-10-25 19:45:07.243 | INFO     | __main__:<module>:39 - Data loaded. Shape: (2000000, 27)
+2025-10-25 19:45:36.926 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-13 Report Created. =========================== 
+
+
+
+2025-10-25 19:45:37.054 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev-14_merged.csv
+2025-10-25 19:45:37.054 | INFO     | __main__:<module>:34 - Large file (1208.6 MB). Sampling 250,000 rows for profiling.
+2025-10-25 19:45:41.621 | INFO     | __main__:<module>:39 - Data loaded. Shape: (2000000, 22)
+2025-10-25 19:46:21.154 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-14 Report Created. =========================== 
+
+
+
+2025-10-25 19:46:21.262 | INFO     | __main__:<module>:25 - Fetching data from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev-15_merged.csv
+2025-10-25 19:46:27.963 | INFO     | __main__:<module>:39 - Data loaded. Shape: (2095624, 28)
+2025-10-25 19:47:12.370 | SUCCESS  | __main__:<module>:51 - 
+
+
+ =========================== lev-15 Report Created. =========================== 
+
+
+

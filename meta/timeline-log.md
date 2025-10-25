@@ -11,4 +11,12 @@
   - Final Review at 20:38 IST
 - **Oct 25, 2025**
   - Chunks are too small less 1MB 
-  - So converted into a single parquet data for each level
+  - So converted into a single parquet data for each level 11:42 IST
+  - During the csv file conversion level 2 file is corrupt 18:15 IST
+    - So again Download dta file then chunk wise 
+    - Then convert to merged parquet file 
+    - Then csv file. 
+    - Rather than Running the whole scripts i do with notebook. 18:58 IST
+  - Create the data profiling on each level.
+    - If dataset is more than 500 MB 
+    - Then it take only 2_000_000 rows 19:42 IST

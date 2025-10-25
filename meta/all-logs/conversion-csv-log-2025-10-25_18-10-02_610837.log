@@ -1,0 +1,130 @@
+2025-10-25 18:10:02 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01
+2025-10-25 18:10:02 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:10:16 | SUCCESS | 
+
+
+ ======================= lev-01 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:10:16 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-02
+2025-10-25 18:10:16 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:10:17 | ERROR | -----> Error at lev02: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+
+2025-10-25 18:10:17 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03
+2025-10-25 18:10:17 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:10:38 | SUCCESS | 
+
+
+ ======================= lev-03 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:10:38 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04
+2025-10-25 18:10:38 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:10:51 | SUCCESS | 
+
+
+ ======================= lev-04 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:10:51 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 18:10:51 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:17:18 | SUCCESS | 
+
+
+ ======================= lev-05 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:17:18 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 18:17:18 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:18:00 | SUCCESS | 
+
+
+ ======================= lev-06 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:18:00 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07
+2025-10-25 18:18:00 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:18:16 | SUCCESS | 
+
+
+ ======================= lev-07 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:18:16 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 18:18:16 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:18:57 | SUCCESS | 
+
+
+ ======================= lev-08 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:18:57 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 18:18:57 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:21:48 | SUCCESS | 
+
+
+ ======================= lev-09 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:21:48 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10
+2025-10-25 18:21:48 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:22:12 | SUCCESS | 
+
+
+ ======================= lev-10 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:22:12 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11
+2025-10-25 18:22:12 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:22:27 | SUCCESS | 
+
+
+ ======================= lev-11 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:22:27 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 18:22:27 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:24:17 | SUCCESS | 
+
+
+ ======================= lev-12 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:24:17 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 18:24:17 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:26:58 | SUCCESS | 
+
+
+ ======================= lev-13 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:26:58 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 18:26:58 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:29:58 | SUCCESS | 
+
+
+ ======================= lev-14 parquet convert to CSV file. ======================= 
+
+
+
+2025-10-25 18:29:58 | INFO | Fetch the C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 18:29:58 | INFO | Find the merged parquet file successfully.
+2025-10-25 18:30:33 | SUCCESS | 
+
+
+ ======================= lev-15 parquet convert to CSV file. ======================= 
+
+
+
