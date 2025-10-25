@@ -24,3 +24,5 @@
     - Take the sample of 1_00_000 rows 
     - I think it take time 😅 Now is 21:30 IST
     - Check the log for more details Now done 23:26 IST
+    - Few error is occur but we do in raw datasets 
+    - After all the feature engineering done if need we do again 23:38 IST
