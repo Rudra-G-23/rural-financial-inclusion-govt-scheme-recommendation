@@ -9,3 +9,6 @@
   - Level 2 is incorrect file name 
   - Level 12, 13, 14 corrupt file --> again downloaded 
   - Final Review at 20:38 IST
+- **Oct 25, 2025**
+  - Chunks are too small less 1MB 
+  - So converted into a single parquet data for each level

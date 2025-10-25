@@ -1,0 +1,673 @@
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-02 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-09']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-09', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-10']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-09', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-10', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-11']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-09', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-10', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-11', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-12']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-09', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-10', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-11', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-12', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-13']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-09', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-10', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-11', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-12', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-13', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-14']
+2025-10-25 11:24:53 | INFO | C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15 is append in ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-09', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-10', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-11', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-12', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-13', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-14', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-15']
+2025-10-25 11:24:53 | SUCCESS | 
+
+
+  ========================= All level fetch successfully.========================= 
+
+
+
+2025-10-25 11:24:53 | INFO | Found 15 level directories: ['C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-01', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-02', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-03', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-04', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-05', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-06', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-07', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-08', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-09', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-10', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-11', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-12', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-13', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-14', 'C:\\Users\\Rudra\\Desktop\\rural-financial-inclusion-govt-scheme-recommendation\\parquet-data\\lev-15']
+2025-10-25 11:24:53 | INFO | Found 3 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01
+2025-10-25 11:24:53 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01\lev-01_merged.parquet
+2025-10-25 11:24:55 | INFO | This chunks lev-01_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01
+2025-10-25 11:24:55 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01\lev_01_chunk_1.parquet
+2025-10-25 11:24:55 | INFO | This chunks lev_01_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01
+2025-10-25 11:24:55 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01\lev_01_chunk_2.parquet
+2025-10-25 11:24:55 | INFO | This chunks lev_01_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01
+2025-10-25 11:25:01 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-01\lev-01_merged.parquet
+2025-10-25 11:25:01 | SUCCESS |  
+
+
+  ========================= lev-01 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:25:01 | INFO | Found 7 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-02
+2025-10-25 11:25:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-02\lev-02_merged.parquet
+2025-10-25 11:25:01 | ERROR | -----> Error mergining parquet files fomr C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-02: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file. 
+
+2025-10-25 11:25:01 | SUCCESS |  
+
+
+  ========================= lev-02 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:25:01 | INFO | Found 3 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03
+2025-10-25 11:25:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03\lev-03_merged.parquet
+2025-10-25 11:25:03 | INFO | This chunks lev-03_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03
+2025-10-25 11:25:03 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03\lev_03_chunk_1.parquet
+2025-10-25 11:25:04 | INFO | This chunks lev_03_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03
+2025-10-25 11:25:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03\lev_03_chunk_2.parquet
+2025-10-25 11:25:04 | INFO | This chunks lev_03_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03
+2025-10-25 11:25:13 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-03\lev-03_merged.parquet
+2025-10-25 11:25:13 | SUCCESS |  
+
+
+  ========================= lev-03 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:25:13 | INFO | Found 3 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04
+2025-10-25 11:25:13 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04\lev-04_merged.parquet
+2025-10-25 11:25:14 | INFO | This chunks lev-04_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04
+2025-10-25 11:25:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04\lev_04_chunk_1.parquet
+2025-10-25 11:25:14 | INFO | This chunks lev_04_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04
+2025-10-25 11:25:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04\lev_04_chunk_2.parquet
+2025-10-25 11:25:15 | INFO | This chunks lev_04_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04
+2025-10-25 11:25:21 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-04\lev-04_merged.parquet
+2025-10-25 11:25:21 | SUCCESS |  
+
+
+  ========================= lev-04 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:25:21 | INFO | Found 65 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:21 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev-05_merged.parquet
+2025-10-25 11:25:42 | INFO | This chunks lev-05_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:42 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_1.parquet
+2025-10-25 11:25:42 | INFO | This chunks lev_05_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:42 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_10.parquet
+2025-10-25 11:25:43 | INFO | This chunks lev_05_chunk_10.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:43 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_11.parquet
+2025-10-25 11:25:43 | INFO | This chunks lev_05_chunk_11.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:43 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_12.parquet
+2025-10-25 11:25:43 | INFO | This chunks lev_05_chunk_12.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:43 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_13.parquet
+2025-10-25 11:25:44 | INFO | This chunks lev_05_chunk_13.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:44 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_14.parquet
+2025-10-25 11:25:44 | INFO | This chunks lev_05_chunk_14.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:44 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_15.parquet
+2025-10-25 11:25:45 | INFO | This chunks lev_05_chunk_15.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_16.parquet
+2025-10-25 11:25:45 | INFO | This chunks lev_05_chunk_16.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_17.parquet
+2025-10-25 11:25:45 | INFO | This chunks lev_05_chunk_17.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_18.parquet
+2025-10-25 11:25:46 | INFO | This chunks lev_05_chunk_18.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_19.parquet
+2025-10-25 11:25:46 | INFO | This chunks lev_05_chunk_19.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_2.parquet
+2025-10-25 11:25:46 | INFO | This chunks lev_05_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_20.parquet
+2025-10-25 11:25:47 | INFO | This chunks lev_05_chunk_20.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_21.parquet
+2025-10-25 11:25:47 | INFO | This chunks lev_05_chunk_21.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_22.parquet
+2025-10-25 11:25:48 | INFO | This chunks lev_05_chunk_22.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:48 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_23.parquet
+2025-10-25 11:25:48 | INFO | This chunks lev_05_chunk_23.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:48 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_24.parquet
+2025-10-25 11:25:48 | INFO | This chunks lev_05_chunk_24.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:48 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_25.parquet
+2025-10-25 11:25:49 | INFO | This chunks lev_05_chunk_25.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:49 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_26.parquet
+2025-10-25 11:25:49 | INFO | This chunks lev_05_chunk_26.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:49 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_27.parquet
+2025-10-25 11:25:50 | INFO | This chunks lev_05_chunk_27.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:50 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_28.parquet
+2025-10-25 11:25:50 | INFO | This chunks lev_05_chunk_28.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:50 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_29.parquet
+2025-10-25 11:25:50 | INFO | This chunks lev_05_chunk_29.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:50 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_3.parquet
+2025-10-25 11:25:51 | INFO | This chunks lev_05_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:51 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_30.parquet
+2025-10-25 11:25:51 | INFO | This chunks lev_05_chunk_30.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:51 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_31.parquet
+2025-10-25 11:25:52 | INFO | This chunks lev_05_chunk_31.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:52 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_32.parquet
+2025-10-25 11:25:52 | INFO | This chunks lev_05_chunk_32.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:52 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_33.parquet
+2025-10-25 11:25:52 | INFO | This chunks lev_05_chunk_33.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:52 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_34.parquet
+2025-10-25 11:25:53 | INFO | This chunks lev_05_chunk_34.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:53 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_35.parquet
+2025-10-25 11:25:53 | INFO | This chunks lev_05_chunk_35.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:53 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_36.parquet
+2025-10-25 11:25:53 | INFO | This chunks lev_05_chunk_36.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:53 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_37.parquet
+2025-10-25 11:25:54 | INFO | This chunks lev_05_chunk_37.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:54 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_38.parquet
+2025-10-25 11:25:54 | INFO | This chunks lev_05_chunk_38.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:54 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_39.parquet
+2025-10-25 11:25:55 | INFO | This chunks lev_05_chunk_39.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:55 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_4.parquet
+2025-10-25 11:25:55 | INFO | This chunks lev_05_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:55 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_40.parquet
+2025-10-25 11:25:55 | INFO | This chunks lev_05_chunk_40.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:55 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_41.parquet
+2025-10-25 11:25:56 | INFO | This chunks lev_05_chunk_41.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:56 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_42.parquet
+2025-10-25 11:25:56 | INFO | This chunks lev_05_chunk_42.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:56 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_43.parquet
+2025-10-25 11:25:57 | INFO | This chunks lev_05_chunk_43.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:57 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_44.parquet
+2025-10-25 11:25:57 | INFO | This chunks lev_05_chunk_44.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:57 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_45.parquet
+2025-10-25 11:25:57 | INFO | This chunks lev_05_chunk_45.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:57 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_46.parquet
+2025-10-25 11:25:58 | INFO | This chunks lev_05_chunk_46.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:58 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_47.parquet
+2025-10-25 11:25:58 | INFO | This chunks lev_05_chunk_47.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:58 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_48.parquet
+2025-10-25 11:25:59 | INFO | This chunks lev_05_chunk_48.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:59 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_49.parquet
+2025-10-25 11:25:59 | INFO | This chunks lev_05_chunk_49.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:59 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_5.parquet
+2025-10-25 11:25:59 | INFO | This chunks lev_05_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:25:59 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_50.parquet
+2025-10-25 11:26:00 | INFO | This chunks lev_05_chunk_50.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:00 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_51.parquet
+2025-10-25 11:26:00 | INFO | This chunks lev_05_chunk_51.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:00 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_52.parquet
+2025-10-25 11:26:01 | INFO | This chunks lev_05_chunk_52.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_53.parquet
+2025-10-25 11:26:01 | INFO | This chunks lev_05_chunk_53.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_54.parquet
+2025-10-25 11:26:01 | INFO | This chunks lev_05_chunk_54.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_55.parquet
+2025-10-25 11:26:02 | INFO | This chunks lev_05_chunk_55.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_56.parquet
+2025-10-25 11:26:02 | INFO | This chunks lev_05_chunk_56.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_57.parquet
+2025-10-25 11:26:02 | INFO | This chunks lev_05_chunk_57.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_58.parquet
+2025-10-25 11:26:03 | INFO | This chunks lev_05_chunk_58.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:03 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_59.parquet
+2025-10-25 11:26:03 | INFO | This chunks lev_05_chunk_59.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:03 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_6.parquet
+2025-10-25 11:26:04 | INFO | This chunks lev_05_chunk_6.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_60.parquet
+2025-10-25 11:26:04 | INFO | This chunks lev_05_chunk_60.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_61.parquet
+2025-10-25 11:26:04 | INFO | This chunks lev_05_chunk_61.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_62.parquet
+2025-10-25 11:26:05 | INFO | This chunks lev_05_chunk_62.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:05 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_63.parquet
+2025-10-25 11:26:05 | INFO | This chunks lev_05_chunk_63.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:05 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_64.parquet
+2025-10-25 11:26:06 | INFO | This chunks lev_05_chunk_64.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_7.parquet
+2025-10-25 11:26:06 | INFO | This chunks lev_05_chunk_7.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_8.parquet
+2025-10-25 11:26:06 | INFO | This chunks lev_05_chunk_8.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:26:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev_05_chunk_9.parquet
+2025-10-25 11:26:07 | INFO | This chunks lev_05_chunk_9.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05
+2025-10-25 11:28:31 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-05\lev-05_merged.parquet
+2025-10-25 11:28:42 | SUCCESS |  
+
+
+  ========================= lev-05 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:28:42 | INFO | Found 10 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:42 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev-06_merged.parquet
+2025-10-25 11:28:45 | INFO | This chunks lev-06_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_1.parquet
+2025-10-25 11:28:45 | INFO | This chunks lev_06_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_2.parquet
+2025-10-25 11:28:46 | INFO | This chunks lev_06_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_3.parquet
+2025-10-25 11:28:46 | INFO | This chunks lev_06_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_4.parquet
+2025-10-25 11:28:47 | INFO | This chunks lev_06_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_5.parquet
+2025-10-25 11:28:47 | INFO | This chunks lev_06_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_6.parquet
+2025-10-25 11:28:47 | INFO | This chunks lev_06_chunk_6.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_7.parquet
+2025-10-25 11:28:48 | INFO | This chunks lev_06_chunk_7.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:48 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_8.parquet
+2025-10-25 11:28:48 | INFO | This chunks lev_06_chunk_8.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:28:48 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev_06_chunk_9.parquet
+2025-10-25 11:28:49 | INFO | This chunks lev_06_chunk_9.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06
+2025-10-25 11:29:09 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-06\lev-06_merged.parquet
+2025-10-25 11:29:10 | SUCCESS |  
+
+
+  ========================= lev-06 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:29:10 | INFO | Found 3 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07
+2025-10-25 11:29:10 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07\lev-07_merged.parquet
+2025-10-25 11:29:11 | INFO | This chunks lev-07_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07
+2025-10-25 11:29:11 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07\lev_07_chunk_1.parquet
+2025-10-25 11:29:11 | INFO | This chunks lev_07_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07
+2025-10-25 11:29:11 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07\lev_07_chunk_2.parquet
+2025-10-25 11:29:12 | INFO | This chunks lev_07_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07
+2025-10-25 11:29:16 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-07\lev-07_merged.parquet
+2025-10-25 11:29:16 | SUCCESS |  
+
+
+  ========================= lev-07 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:29:16 | INFO | Found 9 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:16 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev-08_merged.parquet
+2025-10-25 11:29:19 | INFO | This chunks lev-08_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:19 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev_08_chunk_1.parquet
+2025-10-25 11:29:19 | INFO | This chunks lev_08_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:19 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev_08_chunk_2.parquet
+2025-10-25 11:29:19 | INFO | This chunks lev_08_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:19 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev_08_chunk_3.parquet
+2025-10-25 11:29:20 | INFO | This chunks lev_08_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:20 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev_08_chunk_4.parquet
+2025-10-25 11:29:20 | INFO | This chunks lev_08_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:20 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev_08_chunk_5.parquet
+2025-10-25 11:29:21 | INFO | This chunks lev_08_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:21 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev_08_chunk_6.parquet
+2025-10-25 11:29:21 | INFO | This chunks lev_08_chunk_6.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:21 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev_08_chunk_7.parquet
+2025-10-25 11:29:21 | INFO | This chunks lev_08_chunk_7.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:21 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev_08_chunk_8.parquet
+2025-10-25 11:29:22 | INFO | This chunks lev_08_chunk_8.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08
+2025-10-25 11:29:38 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-08\lev-08_merged.parquet
+2025-10-25 11:29:38 | SUCCESS |  
+
+
+  ========================= lev-08 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:29:38 | INFO | Found 43 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:29:38 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev-09_merged.parquet
+2025-10-25 11:29:59 | INFO | This chunks lev-09_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:29:59 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_1.parquet
+2025-10-25 11:29:59 | INFO | This chunks lev_09_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:29:59 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_10.parquet
+2025-10-25 11:30:00 | INFO | This chunks lev_09_chunk_10.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:00 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_11.parquet
+2025-10-25 11:30:00 | INFO | This chunks lev_09_chunk_11.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:00 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_12.parquet
+2025-10-25 11:30:01 | INFO | This chunks lev_09_chunk_12.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_13.parquet
+2025-10-25 11:30:01 | INFO | This chunks lev_09_chunk_13.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_14.parquet
+2025-10-25 11:30:01 | INFO | This chunks lev_09_chunk_14.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_15.parquet
+2025-10-25 11:30:01 | INFO | This chunks lev_09_chunk_15.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:01 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_16.parquet
+2025-10-25 11:30:02 | INFO | This chunks lev_09_chunk_16.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_17.parquet
+2025-10-25 11:30:02 | INFO | This chunks lev_09_chunk_17.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_18.parquet
+2025-10-25 11:30:02 | INFO | This chunks lev_09_chunk_18.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_19.parquet
+2025-10-25 11:30:03 | INFO | This chunks lev_09_chunk_19.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:03 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_2.parquet
+2025-10-25 11:30:03 | INFO | This chunks lev_09_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:03 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_20.parquet
+2025-10-25 11:30:03 | INFO | This chunks lev_09_chunk_20.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:03 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_21.parquet
+2025-10-25 11:30:04 | INFO | This chunks lev_09_chunk_21.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_22.parquet
+2025-10-25 11:30:04 | INFO | This chunks lev_09_chunk_22.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_23.parquet
+2025-10-25 11:30:05 | INFO | This chunks lev_09_chunk_23.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:05 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_24.parquet
+2025-10-25 11:30:05 | INFO | This chunks lev_09_chunk_24.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:05 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_25.parquet
+2025-10-25 11:30:05 | INFO | This chunks lev_09_chunk_25.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:05 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_26.parquet
+2025-10-25 11:30:06 | INFO | This chunks lev_09_chunk_26.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_27.parquet
+2025-10-25 11:30:06 | INFO | This chunks lev_09_chunk_27.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_28.parquet
+2025-10-25 11:30:06 | INFO | This chunks lev_09_chunk_28.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_29.parquet
+2025-10-25 11:30:07 | INFO | This chunks lev_09_chunk_29.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:07 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_3.parquet
+2025-10-25 11:30:07 | INFO | This chunks lev_09_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:07 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_30.parquet
+2025-10-25 11:30:08 | INFO | This chunks lev_09_chunk_30.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:08 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_31.parquet
+2025-10-25 11:30:08 | INFO | This chunks lev_09_chunk_31.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:08 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_32.parquet
+2025-10-25 11:30:08 | INFO | This chunks lev_09_chunk_32.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:08 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_33.parquet
+2025-10-25 11:30:09 | INFO | This chunks lev_09_chunk_33.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:09 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_34.parquet
+2025-10-25 11:30:09 | INFO | This chunks lev_09_chunk_34.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:09 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_35.parquet
+2025-10-25 11:30:10 | INFO | This chunks lev_09_chunk_35.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:10 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_36.parquet
+2025-10-25 11:30:10 | INFO | This chunks lev_09_chunk_36.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:10 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_37.parquet
+2025-10-25 11:30:10 | INFO | This chunks lev_09_chunk_37.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:10 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_38.parquet
+2025-10-25 11:30:11 | INFO | This chunks lev_09_chunk_38.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:11 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_39.parquet
+2025-10-25 11:30:11 | INFO | This chunks lev_09_chunk_39.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:11 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_4.parquet
+2025-10-25 11:30:12 | INFO | This chunks lev_09_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:12 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_40.parquet
+2025-10-25 11:30:12 | INFO | This chunks lev_09_chunk_40.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:12 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_41.parquet
+2025-10-25 11:30:12 | INFO | This chunks lev_09_chunk_41.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:12 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_42.parquet
+2025-10-25 11:30:12 | INFO | This chunks lev_09_chunk_42.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:12 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_5.parquet
+2025-10-25 11:30:13 | INFO | This chunks lev_09_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:13 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_6.parquet
+2025-10-25 11:30:13 | INFO | This chunks lev_09_chunk_6.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:13 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_7.parquet
+2025-10-25 11:30:14 | INFO | This chunks lev_09_chunk_7.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_8.parquet
+2025-10-25 11:30:14 | INFO | This chunks lev_09_chunk_8.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:30:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev_09_chunk_9.parquet
+2025-10-25 11:30:14 | INFO | This chunks lev_09_chunk_9.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09
+2025-10-25 11:31:40 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-09\lev-09_merged.parquet
+2025-10-25 11:31:44 | SUCCESS |  
+
+
+  ========================= lev-09 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:31:44 | INFO | Found 6 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10
+2025-10-25 11:31:44 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev-10_merged.parquet
+2025-10-25 11:31:45 | INFO | This chunks lev-10_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10
+2025-10-25 11:31:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev_10_chunk_1.parquet
+2025-10-25 11:31:46 | INFO | This chunks lev_10_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10
+2025-10-25 11:31:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev_10_chunk_2.parquet
+2025-10-25 11:31:46 | INFO | This chunks lev_10_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10
+2025-10-25 11:31:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev_10_chunk_3.parquet
+2025-10-25 11:31:46 | INFO | This chunks lev_10_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10
+2025-10-25 11:31:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev_10_chunk_4.parquet
+2025-10-25 11:31:47 | INFO | This chunks lev_10_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10
+2025-10-25 11:31:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev_10_chunk_5.parquet
+2025-10-25 11:31:47 | INFO | This chunks lev_10_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10
+2025-10-25 11:31:57 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-10\lev-10_merged.parquet
+2025-10-25 11:31:57 | SUCCESS |  
+
+
+  ========================= lev-10 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:31:57 | INFO | Found 3 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11
+2025-10-25 11:31:57 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11\lev-11_merged.parquet
+2025-10-25 11:31:58 | INFO | This chunks lev-11_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11
+2025-10-25 11:31:58 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11\lev_11_chunk_1.parquet
+2025-10-25 11:31:59 | INFO | This chunks lev_11_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11
+2025-10-25 11:31:59 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11\lev_11_chunk_2.parquet
+2025-10-25 11:31:59 | INFO | This chunks lev_11_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11
+2025-10-25 11:32:06 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-11\lev-11_merged.parquet
+2025-10-25 11:32:06 | SUCCESS |  
+
+
+  ========================= lev-11 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:32:06 | INFO | Found 25 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev-12_merged.parquet
+2025-10-25 11:32:13 | INFO | This chunks lev-12_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:13 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_1.parquet
+2025-10-25 11:32:13 | INFO | This chunks lev_12_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:13 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_10.parquet
+2025-10-25 11:32:14 | INFO | This chunks lev_12_chunk_10.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_11.parquet
+2025-10-25 11:32:14 | INFO | This chunks lev_12_chunk_11.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_12.parquet
+2025-10-25 11:32:14 | INFO | This chunks lev_12_chunk_12.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_13.parquet
+2025-10-25 11:32:15 | INFO | This chunks lev_12_chunk_13.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:15 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_14.parquet
+2025-10-25 11:32:15 | INFO | This chunks lev_12_chunk_14.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:15 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_15.parquet
+2025-10-25 11:32:15 | INFO | This chunks lev_12_chunk_15.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:15 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_16.parquet
+2025-10-25 11:32:16 | INFO | This chunks lev_12_chunk_16.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:16 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_17.parquet
+2025-10-25 11:32:16 | INFO | This chunks lev_12_chunk_17.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:16 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_18.parquet
+2025-10-25 11:32:17 | INFO | This chunks lev_12_chunk_18.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:17 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_19.parquet
+2025-10-25 11:32:17 | INFO | This chunks lev_12_chunk_19.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:17 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_2.parquet
+2025-10-25 11:32:17 | INFO | This chunks lev_12_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:17 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_20.parquet
+2025-10-25 11:32:18 | INFO | This chunks lev_12_chunk_20.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:18 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_21.parquet
+2025-10-25 11:32:18 | INFO | This chunks lev_12_chunk_21.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:18 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_22.parquet
+2025-10-25 11:32:19 | INFO | This chunks lev_12_chunk_22.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:19 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_23.parquet
+2025-10-25 11:32:19 | INFO | This chunks lev_12_chunk_23.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:19 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_24.parquet
+2025-10-25 11:32:19 | INFO | This chunks lev_12_chunk_24.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:19 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_3.parquet
+2025-10-25 11:32:20 | INFO | This chunks lev_12_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:20 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_4.parquet
+2025-10-25 11:32:20 | INFO | This chunks lev_12_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:20 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_5.parquet
+2025-10-25 11:32:20 | INFO | This chunks lev_12_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:20 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_6.parquet
+2025-10-25 11:32:21 | INFO | This chunks lev_12_chunk_6.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:21 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_7.parquet
+2025-10-25 11:32:21 | INFO | This chunks lev_12_chunk_7.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:21 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_8.parquet
+2025-10-25 11:32:22 | INFO | This chunks lev_12_chunk_8.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:32:22 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev_12_chunk_9.parquet
+2025-10-25 11:32:22 | INFO | This chunks lev_12_chunk_9.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12
+2025-10-25 11:35:30 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-12\lev-12_merged.parquet
+2025-10-25 11:35:31 | SUCCESS |  
+
+
+  ========================= lev-12 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:35:31 | INFO | Found 26 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:31 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev-13_merged.parquet
+2025-10-25 11:35:39 | INFO | This chunks lev-13_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:39 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_1.parquet
+2025-10-25 11:35:40 | INFO | This chunks lev_13_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:40 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_10.parquet
+2025-10-25 11:35:40 | INFO | This chunks lev_13_chunk_10.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:40 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_11.parquet
+2025-10-25 11:35:41 | INFO | This chunks lev_13_chunk_11.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:41 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_12.parquet
+2025-10-25 11:35:41 | INFO | This chunks lev_13_chunk_12.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:41 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_13.parquet
+2025-10-25 11:35:41 | INFO | This chunks lev_13_chunk_13.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:41 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_14.parquet
+2025-10-25 11:35:42 | INFO | This chunks lev_13_chunk_14.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:42 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_15.parquet
+2025-10-25 11:35:42 | INFO | This chunks lev_13_chunk_15.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:42 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_16.parquet
+2025-10-25 11:35:43 | INFO | This chunks lev_13_chunk_16.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:43 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_17.parquet
+2025-10-25 11:35:43 | INFO | This chunks lev_13_chunk_17.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:43 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_18.parquet
+2025-10-25 11:35:43 | INFO | This chunks lev_13_chunk_18.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:43 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_19.parquet
+2025-10-25 11:35:44 | INFO | This chunks lev_13_chunk_19.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:44 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_2.parquet
+2025-10-25 11:35:44 | INFO | This chunks lev_13_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:44 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_20.parquet
+2025-10-25 11:35:45 | INFO | This chunks lev_13_chunk_20.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_21.parquet
+2025-10-25 11:35:45 | INFO | This chunks lev_13_chunk_21.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_22.parquet
+2025-10-25 11:35:45 | INFO | This chunks lev_13_chunk_22.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:45 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_23.parquet
+2025-10-25 11:35:46 | INFO | This chunks lev_13_chunk_23.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_24.parquet
+2025-10-25 11:35:46 | INFO | This chunks lev_13_chunk_24.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:46 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_25.parquet
+2025-10-25 11:35:47 | INFO | This chunks lev_13_chunk_25.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_3.parquet
+2025-10-25 11:35:47 | INFO | This chunks lev_13_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_4.parquet
+2025-10-25 11:35:47 | INFO | This chunks lev_13_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:47 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_5.parquet
+2025-10-25 11:35:48 | INFO | This chunks lev_13_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:48 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_6.parquet
+2025-10-25 11:35:48 | INFO | This chunks lev_13_chunk_6.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:48 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_7.parquet
+2025-10-25 11:35:49 | INFO | This chunks lev_13_chunk_7.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:49 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_8.parquet
+2025-10-25 11:35:49 | INFO | This chunks lev_13_chunk_8.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:35:49 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev_13_chunk_9.parquet
+2025-10-25 11:35:49 | INFO | This chunks lev_13_chunk_9.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13
+2025-10-25 11:36:47 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-13\lev-13_merged.parquet
+2025-10-25 11:36:49 | SUCCESS |  
+
+
+  ========================= lev-13 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:36:49 | INFO | Found 43 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:36:49 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev-14_merged.parquet
+2025-10-25 11:37:02 | INFO | This chunks lev-14_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_1.parquet
+2025-10-25 11:37:02 | INFO | This chunks lev_14_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_10.parquet
+2025-10-25 11:37:02 | INFO | This chunks lev_14_chunk_10.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:02 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_11.parquet
+2025-10-25 11:37:03 | INFO | This chunks lev_14_chunk_11.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:03 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_12.parquet
+2025-10-25 11:37:03 | INFO | This chunks lev_14_chunk_12.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:03 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_13.parquet
+2025-10-25 11:37:04 | INFO | This chunks lev_14_chunk_13.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_14.parquet
+2025-10-25 11:37:04 | INFO | This chunks lev_14_chunk_14.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_15.parquet
+2025-10-25 11:37:04 | INFO | This chunks lev_14_chunk_15.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:04 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_16.parquet
+2025-10-25 11:37:05 | INFO | This chunks lev_14_chunk_16.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:05 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_17.parquet
+2025-10-25 11:37:05 | INFO | This chunks lev_14_chunk_17.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:05 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_18.parquet
+2025-10-25 11:37:06 | INFO | This chunks lev_14_chunk_18.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_19.parquet
+2025-10-25 11:37:06 | INFO | This chunks lev_14_chunk_19.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_2.parquet
+2025-10-25 11:37:06 | INFO | This chunks lev_14_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:06 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_20.parquet
+2025-10-25 11:37:07 | INFO | This chunks lev_14_chunk_20.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:07 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_21.parquet
+2025-10-25 11:37:07 | INFO | This chunks lev_14_chunk_21.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:07 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_22.parquet
+2025-10-25 11:37:08 | INFO | This chunks lev_14_chunk_22.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:08 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_23.parquet
+2025-10-25 11:37:08 | INFO | This chunks lev_14_chunk_23.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:08 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_24.parquet
+2025-10-25 11:37:08 | INFO | This chunks lev_14_chunk_24.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:08 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_25.parquet
+2025-10-25 11:37:09 | INFO | This chunks lev_14_chunk_25.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:09 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_26.parquet
+2025-10-25 11:37:09 | INFO | This chunks lev_14_chunk_26.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:09 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_27.parquet
+2025-10-25 11:37:10 | INFO | This chunks lev_14_chunk_27.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:10 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_28.parquet
+2025-10-25 11:37:10 | INFO | This chunks lev_14_chunk_28.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:10 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_29.parquet
+2025-10-25 11:37:10 | INFO | This chunks lev_14_chunk_29.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:10 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_3.parquet
+2025-10-25 11:37:11 | INFO | This chunks lev_14_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:11 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_30.parquet
+2025-10-25 11:37:11 | INFO | This chunks lev_14_chunk_30.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:11 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_31.parquet
+2025-10-25 11:37:12 | INFO | This chunks lev_14_chunk_31.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:12 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_32.parquet
+2025-10-25 11:37:12 | INFO | This chunks lev_14_chunk_32.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:12 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_33.parquet
+2025-10-25 11:37:12 | INFO | This chunks lev_14_chunk_33.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:12 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_34.parquet
+2025-10-25 11:37:13 | INFO | This chunks lev_14_chunk_34.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:13 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_35.parquet
+2025-10-25 11:37:13 | INFO | This chunks lev_14_chunk_35.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:13 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_36.parquet
+2025-10-25 11:37:13 | INFO | This chunks lev_14_chunk_36.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:13 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_37.parquet
+2025-10-25 11:37:14 | INFO | This chunks lev_14_chunk_37.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_38.parquet
+2025-10-25 11:37:14 | INFO | This chunks lev_14_chunk_38.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:14 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_39.parquet
+2025-10-25 11:37:15 | INFO | This chunks lev_14_chunk_39.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:15 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_4.parquet
+2025-10-25 11:37:15 | INFO | This chunks lev_14_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:15 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_40.parquet
+2025-10-25 11:37:15 | INFO | This chunks lev_14_chunk_40.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:15 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_41.parquet
+2025-10-25 11:37:16 | INFO | This chunks lev_14_chunk_41.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:16 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_42.parquet
+2025-10-25 11:37:16 | INFO | This chunks lev_14_chunk_42.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:16 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_5.parquet
+2025-10-25 11:37:16 | INFO | This chunks lev_14_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:16 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_6.parquet
+2025-10-25 11:37:17 | INFO | This chunks lev_14_chunk_6.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:17 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_7.parquet
+2025-10-25 11:37:17 | INFO | This chunks lev_14_chunk_7.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:17 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_8.parquet
+2025-10-25 11:37:18 | INFO | This chunks lev_14_chunk_8.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:37:18 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev_14_chunk_9.parquet
+2025-10-25 11:37:18 | INFO | This chunks lev_14_chunk_9.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14
+2025-10-25 11:38:46 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-14\lev-14_merged.parquet
+2025-10-25 11:38:49 | SUCCESS |  
+
+
+  ========================= lev-14 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:38:49 | INFO | Found 7 parquet_files chunk files in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 11:38:49 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev-15_merged.parquet
+2025-10-25 11:38:51 | INFO | This chunks lev-15_merged.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 11:38:51 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev_15_chunk_1.parquet
+2025-10-25 11:38:52 | INFO | This chunks lev_15_chunk_1.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 11:38:52 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev_15_chunk_2.parquet
+2025-10-25 11:38:52 | INFO | This chunks lev_15_chunk_2.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 11:38:52 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev_15_chunk_3.parquet
+2025-10-25 11:38:53 | INFO | This chunks lev_15_chunk_3.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 11:38:53 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev_15_chunk_4.parquet
+2025-10-25 11:38:53 | INFO | This chunks lev_15_chunk_4.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 11:38:53 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev_15_chunk_5.parquet
+2025-10-25 11:38:53 | INFO | This chunks lev_15_chunk_5.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 11:38:53 | INFO | Reading file C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev_15_chunk_6.parquet
+2025-10-25 11:38:54 | INFO | This chunks lev_15_chunk_6.parquet appended in C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15
+2025-10-25 11:39:06 | INFO | 
+ Parquet Merged files from C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15 into C:\Users\Rudra\Desktop\rural-financial-inclusion-govt-scheme-recommendation\parquet-data\lev-15\lev-15_merged.parquet
+2025-10-25 11:39:07 | SUCCESS |  
+
+
+  ========================= lev-15 Merged Completed. ========================= 
+
+
+ 
+2025-10-25 11:39:07 | SUCCESS | All levels have been processed.
