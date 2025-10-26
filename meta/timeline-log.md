@@ -26,3 +26,10 @@
     - Check the log for more details Now done 23:26 IST
     - Few error is occur but we do in raw datasets 
     - After all the feature engineering done if need we do again 23:38 IST
+- **Oct 26, 2025**
+  - 07:41 IST >> Add the SSH Key & Push files safely
+    - Files are large so issues to commit 
+    - Means level scatter plots are doing issues
+    - Lev-2 (196MB), Lev-3 (110MB), Lev-09 (415MB), Lev-15  (114MB) ...etc
+    - So do some gpt work then finally done 08:38 IST
+    - Finally, All published & git is clean from both local and remote 08:57 IST
