@@ -4,6 +4,7 @@
 
 ## Remove from local files
 delete/
+chunks/
 parquet-data/lev-02/lev-02-data-convertor.ipynb
 
 ### Data ###

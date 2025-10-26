@@ -90,3 +90,4 @@
 * tqdm — progress bars
 * loguru — logging
 * rich — pretty-print in CLI
+* show-file-tree 😁 Our [Library Web page](https://rudra-g-23.github.io/show-file-tree/)
