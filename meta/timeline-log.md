@@ -35,3 +35,7 @@
     - Finally, All published & git is clean from both local and remote 08:57 IST
   - 11:42 IST >> Organize the files for better access
     - Organize file is most important for the project and team work 12:03 IST
+- **Oct 27, 2025**
+  - 19:00 IST >> Data Health Check 
+    - Checklist for the faster analysis about data 
+    - Create our Project Overview 
