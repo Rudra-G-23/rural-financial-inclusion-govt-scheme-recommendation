@@ -1,5 +1,8 @@
 # ⌛🧑‍💻 Project Timeline & My activity Log
 
+## 2️⃣0️⃣2️⃣5️⃣
+
+### 1st Week (Oct 22 - Oct 26)
 - **Oct 22, 2025** – Dataset downloaded & collected.
 - **Oct 23, 2025** - Added Data Dictionary of HCES 2023-24 with Links.
 - **Oct 24, 2025** 
@@ -35,7 +38,14 @@
     - Finally, All published & git is clean from both local and remote 08:57 IST
   - 11:42 IST >> Organize the files for better access
     - Organize file is most important for the project and team work 12:03 IST
+
+### 2nd Week (Oct 27- Nov 2)
 - **Oct 27, 2025**
   - 19:00 IST >> Data Health Check 
     - Checklist for the faster analysis about data 
     - Create our Project Overview 
+  - 21:00 IST >> Feature Summary 
+    - All level Feature summary (Min, max, count, missing values, ...etc)
+- **Oct 28, 2025**
+  - 06:10 IST >> Database Diagram 
+    - Level 1-5 ready 17:44 IST
