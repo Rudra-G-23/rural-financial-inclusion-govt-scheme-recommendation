@@ -60,3 +60,9 @@
     - So i think it is very simple data
     - And for now we break down the data to focus only on MP 
     - More cool
+  - 07:40 IST >> Feature Selection
+    - Clean the data 🧹 Level 02 data 
+    - I think about the feature engineering ideas 
+    - If I go in this much level of depth it take the time 
+    - And we all know the data cleaning and feature engineering 
+    - It is the most time taken and it affect the model  20:09 IST
