@@ -49,3 +49,14 @@
 - **Oct 28, 2025**
   - 06:10 IST >> Database Diagram 
     - Level 1-5 ready 17:44 IST
+    - All Level Diagram post 20:32 IST
+    - 🤝 : Variables and MP
+    - Share a google sheet both side 
+- **Oct 29, 2025**
+  - 04:30 IST >> Nice Data
+    - Wake up from the morning 
+    - So excited about the data
+    - When the features are clear and all parameter is ready.
+    - So i think it is very simple data
+    - And for now we break down the data to focus only on MP 
+    - More cool
