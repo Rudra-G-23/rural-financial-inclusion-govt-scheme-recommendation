@@ -66,3 +66,4 @@
     - If I go in this much level of depth it take the time 
     - And we all know the data cleaning and feature engineering 
     - It is the most time taken and it affect the model  20:09 IST
+    - 21:23 IST 3 level analysis
