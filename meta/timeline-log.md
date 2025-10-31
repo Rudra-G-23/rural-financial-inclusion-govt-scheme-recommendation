@@ -67,3 +67,10 @@
     - And we all know the data cleaning and feature engineering 
     - It is the most time taken and it affect the model  20:09 IST
     - 21:23 IST 3 level analysis
+- **30 Oct, 2025**
+  - Working on the Report the design 
+- **31 Oct, 2025**
+  - 07:54 IST >> Level 02 EDA
+    - in level 02 why the age is started the from 01 age 
+    - How this possible a small boy survey possible
+    - Change the level 2 age into the forward filling 

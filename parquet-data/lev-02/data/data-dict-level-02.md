@@ -29,7 +29,7 @@ Link: https://microdata.gov.in/NADA/index.php/catalog/237/data-dictionary/F2?fil
 | **Marital_Status**                   | Marital status ( 1:Unmarried, 2:Married(including living together), 3:Widowed,  4:Divorced/separated).                                     |
 | **Education_Level**                  | Highest level of education completed (e.g., primary, secondary, graduate).                        |
 | **Years_of_Education**               | Total number of years the person has attended formal education.                                   |
-| **Used_Internet_Last_30_Days**       | Whether the person used the internet from any location during the last 30 days. (1,2)->(1:Yes, 2:No)                  |
+| **Used_Internet_Last_30_Days**       | Whether the person used the internet from any location during the last 30 days. (1,2)->(1:Yes, 0:No)                  |
 | **Days_Away_From_Home_Last_30_Days** | Number of days the person stayed away from home in the last 30 days.                              |
 | **Meals_Usually_Taken_Per_Day**      | Average number of meals the person usually eats in a day.                                         |
 | **Meals_From_School**                | Number of meals received from school, balwadi, etc., in the last 30 days.                         |
