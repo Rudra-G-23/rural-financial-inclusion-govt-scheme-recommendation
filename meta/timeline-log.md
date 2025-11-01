@@ -74,3 +74,10 @@
     - in level 02 why the age is started the from 01 age 
     - How this possible a small boy survey possible
     - Change the level 2 age into the forward filling 
+    - Level 02 EDA 01 Done 21:46 IST
+- **31 Oct, 2025**
+  - 6:00 IST >> Level 03 Data Cleaning
+    -  Now I do the data cleaning of the level 03 
+    -  Lets see within less than 2 hour i complete or not.
+    -  Within 30 Min i Completed the data cleaning06:
+  - 06:55 IST >> EDA Start of the level 03
