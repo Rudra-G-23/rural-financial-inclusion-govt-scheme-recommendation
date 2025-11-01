@@ -79,5 +79,9 @@
   - 6:00 IST >> Level 03 Data Cleaning
     -  Now I do the data cleaning of the level 03 
     -  Lets see within less than 2 hour i complete or not.
-    -  Within 30 Min i Completed the data cleaning06:
+    -  Within 30 Min i Completed the data cleaning
   - 06:55 IST >> EDA Start of the level 03
+    - Level 03 contains the 40 features 
+    - So update the data dict because all the data is labeled 
+    - Two hour is finished time is off I don't go the collage
+    - I change me mind to go the college due to the project phrase so 
