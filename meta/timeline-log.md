@@ -39,7 +39,7 @@
   - 11:42 IST >> Organize the files for better access
     - Organize file is most important for the project and team work 12:03 IST
 
-### 2nd Week (Oct 27- Nov 2)
+### 2nd Week (Oct 26- Nov 1)
 - **Oct 27, 2025**
   - 19:00 IST >> Data Health Check 
     - Checklist for the faster analysis about data 
@@ -67,14 +67,17 @@
     - And we all know the data cleaning and feature engineering 
     - It is the most time taken and it affect the model  20:09 IST
     - 21:23 IST 3 level analysis
+  
 - **30 Oct, 2025**
   - Working on the Report the design 
+  
 - **31 Oct, 2025**
   - 07:54 IST >> Level 02 EDA
     - in level 02 why the age is started the from 01 age 
     - How this possible a small boy survey possible
     - Change the level 2 age into the forward filling 
     - Level 02 EDA 01 Done 21:46 IST
+  
 - **31 Oct, 2025**
   - 6:00 IST >> Level 03 Data Cleaning
     -  Now I do the data cleaning of the level 03 
@@ -85,3 +88,11 @@
     - So update the data dict because all the data is labeled 
     - Two hour is finished time is off I don't go the collage
     - I change me mind to go the college due to the project phrase so 
+  
+- **Nov 1, 2025**
+  - 07:05 IST >> level 03 EDA 01
+    - I think, I finished this eda within the 1 hour 
+    - But I take the 2 hour almost
+    - After dinner I started again for the level 5
+    - It contains fewer features,
+    - So I to the quick EDA 

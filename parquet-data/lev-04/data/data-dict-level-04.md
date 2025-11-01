@@ -22,7 +22,7 @@ Link: https://microdata.gov.in/NADA/index.php/catalog/237/data-dictionary/F4?fil
 | **Sample_Household_No**             | Unique number assigned to each household surveyed.                                                           |
 | **Questionnaire_No**                | Number of the questionnaire used for that household.                                                         |
 | **Level**                           | Dataset level/section identifier.                                                                            |
-| **Ration_Any_Item_Last_30_Days**    | Whether the household used its ration card to get **any item** in the last 30 days.                          |
+| **Ration_Any_Item_Last_30_Days**    | Whether the household used its ration card to get **any item** in the last 30 days. {1:Y, 2:N}                          |
 | **Ration_Rice**                     | Whether **rice** was procured using the ration card during the last 30 days.                                 |
 | **Ration_Wheat**                    | Whether **wheat** was procured using the ration card during the last 30 days.                                |
 | **Ration_Coarse_Grain**             | Whether **coarse grains** (like millets) were procured using the ration card.                                |
@@ -39,6 +39,6 @@ Link: https://microdata.gov.in/NADA/index.php/catalog/237/data-dictionary/F4?fil
 | **Online_Served_Processed_Food**    | Whether **served processed food** (like restaurant food) was ordered online.                                 |
 | **Online_Packed_Processed_Food**    | Whether **packed processed food** (like snacks, biscuits) was purchased online.                              |
 | **Online_Other_Food_Items**         | Whether any **other food items** were purchased online.                                                      |
-| **Ceremony_Performed_Last_30_Days** | Whether the household **performed any ceremony** (like marriage, festival, or function) in the last 30 days. |
+| **Ceremony_Performed_Last_30_Days** | Whether the household **performed any ceremony** (like marriage, festival, or function) in the last 30 days.{1:Y, 2:N} |
 | **Meals_Served_to_Non_HH_Members**  | Whether **meals were served to guests or non-household members** in the last 30 days.                        |
 | **Multiplier**                      | Statistical weight used to represent the household in the total population.                                  |
