@@ -1,15 +1,35 @@
 ## 🧩 1. Define Separate Mapping Dictionaries
 
 > Item_Code → Description
+
 ---
+### 💰 **Category Mapping**
+```py
+category_mapping = {
+    129: "cereals",
+    139: "cereal substitute",
+    159: "pulses & products",
+    179: "salt & sugar",
+    169: "milk & milk products",
+    219: "vegetables",
+    239: "fruits (fresh)",
+    249: "fruits (dry)",
+    199: "egg, fish & meat",
+    189: "edible oil",
+    269: "spices",
+    279: "beverages",
+    289: "served processed food",
+    299: "packaged processed food"
+}
+```
 
 ### 🍚 **Cereals**
 
 ```python
 cereal_mapping = {
-    061: "rice-free",
-    062: "wheat/atta-free",
-    070: "coarse grains-free",
+    61: "rice-free",
+    62: "wheat/atta-free",
+    70: "coarse grains-free",
     101: "rice – PDS",
     102: "rice – other sources",
     103: "chira",
@@ -21,8 +41,8 @@ cereal_mapping = {
     111: "suji/rawa",
     112: "vermicelli (sewai)",
     114: "other wheat products",
-    001: "coarse grains – PDS",
-    002: "coarse grains – other sources",
+    1: "coarse grains – PDS",
+    2: "coarse grains – other sources",
     122: "other cereals & products",
     129: "cereals: sub-total"
 }
@@ -55,8 +75,8 @@ pulses_mapping = {
     150: "besan/gram products",
     152: "other pulse products (soya chunks, etc.)",
     158: "pulses – PDS",
-    071: "pulses – free",
-    072: "gram – free",
+    71: "pulses – free",
+    72: "gram – free",
     159: "pulses & pulse products: sub-total"
 }
 ```
@@ -67,8 +87,8 @@ pulses_mapping = {
 
 ```python
 salt_sugar_mapping = {
-    073: "salt – free",
-    074: "sugar – free",
+    73: "salt – free",
+    74: "sugar – free",
     178: "salt – PDS",
     170: "salt – other sources",
     171: "sugar – PDS",
@@ -92,10 +112,10 @@ milk_mapping = {
     164: "ghee",
     165: "butter",
     166: "ice-cream",
-    003: "paneer",
-    004: "prepared sweets",
-    005: "cheese",
-    092: "other milk products (lassi, buttermilk, etc.)",
+    3: "paneer",
+    4: "prepared sweets",
+    5: "cheese",
+    92: "other milk products (lassi, buttermilk, etc.)",
     169: "milk & milk products: sub-total"
 }
 ```
@@ -144,7 +164,7 @@ fruits_fresh_mapping = {
     236: "apple",
     237: "grapes",
     222: "watermelon",
-    093: "other fresh fruits (litchi, pineapple, etc.)",
+    93: "other fresh fruits (litchi, pineapple, etc.)",
     239: "fruits (fresh): sub-total"
 }
 ```
@@ -161,7 +181,7 @@ fruits_dry_mapping = {
     243: "cashew nut",
     245: "other nuts (almond, pistachio, walnut, etc.)",
     246: "raisin/kishmish",
-    094: "other dry fruits (apricot, fig, etc.)",
+    94: "other dry fruits (apricot, fig, etc.)",
     249: "fruits (dry): sub-total"
 }
 ```
@@ -194,8 +214,8 @@ edible_oil_mapping = {
     183: "coconut oil",
     184: "refined oil",
     188: "edible oil – PDS",
-    095: "other oils (vanaspati, margarine, etc.)",
-    075: "edible oil – free",
+    95: "other oils (vanaspati, margarine, etc.)",
+    75: "edible oil – free",
     189: "edible oil: sub-total"
 }
 ```
@@ -228,7 +248,7 @@ spices_mapping = {
 
 ```python
 beverages_mapping = {
-    011: "soda drinks",
+    11: "soda drinks",
     270: "tea: cups",
     271: "tea: leaf",
     272: "coffee: cups",
@@ -247,7 +267,7 @@ beverages_mapping = {
 
 ```python
 served_processed_mapping = {
-    076: "cooked meals purchased at subsidized rate",
+    76: "cooked meals purchased at subsidized rate",
     280: "cooked meals purchased",
     281: "cooked meals received free in workplace",
     282: "cooked meals received as assistance",
@@ -263,10 +283,10 @@ served_processed_mapping = {
 
 ```python
 packaged_processed_mapping = {
-    012: "breakfast cereals",
-    013: "biscuits",
-    014: "health supplements",
-    015: "noodles",
+    12: "breakfast cereals",
+    13: "biscuits",
+    14: "health supplements",
+    15: "noodles",
     113: "bread (bakery)",
     161: "baby food",
     290: "cake/pastry",
