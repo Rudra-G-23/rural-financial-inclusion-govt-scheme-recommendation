@@ -18,5 +18,9 @@
     - **Level:** 01-15
     - **Created on:** April 22, 2025
     - **Modified on:** April 22, 2025 (While I downloaded)
+- External Links:
+  - Module 1: https://youtu.be/UroWUbFkxGA?si=6uih6RaARnncSP2B
+  - Module 2: https://youtu.be/OOSbBZsDt0c?si=oBSmDHxpPl9SEm21
+  - Module 3: https://youtu.be/azSdAOl_W7Y?si=pt_O799lALuTKurI
 
 ---
