@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,data,git,python,venv,vs
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,data,git,python,venv,vs
 
+## Keep this file 
+!parquet-data/lev-09/data2/lev_09_category_summary.csv
+
 ## Remove from local files
 delete/
 chunks/
