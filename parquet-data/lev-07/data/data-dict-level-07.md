@@ -41,7 +41,7 @@ Link: https://microdata.gov.in/NADA/index.php/catalog/237/data-dictionary/F7?fil
 | **Num_fee_waiver_received**         | Number of members who received fee reimbursement/waiver                                                       |
 | **Ayushman_beneficiary**            | Whether any member is a beneficiary of PM-JAY (Ayushman Bharat) or other state-specific health schemes        |
 | **Num_ayushman_beneficiaries**      | Number of household members covered under Ayushman Bharat or similar schemes                                  |
-| **Hospitalization_case**            | Whether there was any case of hospitalization in the household during last 365 days                           |
+| **Hospitalization_case**            | Whether there was any case of hospitalization in the household during last 365 days (* Below Mentioned)                           |
 | **Medical_benefit_received**        | Whether any member received medical benefits under PM-JAY or similar schemes during last 365 days             |
 | **Num_medical_beneficiaries**       | Number of household members who received medical benefits                                                     |
 | **Medical_benefit_amount**          | Amount of medical benefit received (in ₹)                                                                     |
@@ -51,3 +51,13 @@ Link: https://microdata.gov.in/NADA/index.php/catalog/237/data-dictionary/F7?fil
 | **Online_purchase_medicine**        | Whether any online purchase/payment made for Medicine & other medical services                                |
 | **Online_purchase_services**        | Whether any online purchase/payment made for Services (travel, recharges, bill payments, entertainment, etc.) |
 | **Multiplier**                      | Sampling weight for generating population-level estimates                                                     |
+
+---
+
+### Hospitalization_case
+| No | Title |
+| -- | ---- |
+| 1 | yes, in Government/Public hospital |
+| 2 | yes, in Private (including Charitable/trust run) hospital |
+| 3 | yes, in both Government & Private hospital |
+| 4 | No |
