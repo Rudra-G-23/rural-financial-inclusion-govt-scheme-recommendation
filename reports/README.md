@@ -30,6 +30,10 @@
 - Ref: [Report](level-07-analysis-report-v1.pdf)
 - Date: 23-11-2025 19:32 IST
 
+##### **Level 08**
+- Ref: [Report](level-08-analysis-report-v1.pdf)
+- Date: 23-11-2025 22:31 IST
+
 ##### **Level 09**
 - Ref: [Report](level-09-analysis-report-v1.pdf)
 - Date: 23-11-2025 18:35 IST
