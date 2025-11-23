@@ -1,11 +1,43 @@
 # CSQ 
 
 **Sections**
+- [Section 08](#sec-08)
 - [Section 09](#sec-09)
 - [Section 10](#sec-10)
 - [Section 11](#sec-11)
 - [Section 12](#sec-12)
 
+---
+
+## SEC 08
+
+```python
+sec_08_mapping = {
+    96:  "other fuel (charcoal, biogas, gobar gas, coal, dung cake, petrol [excl. conveyance], diesel [excl. conveyance], other natural gas [CNG, etc.], matches, candle, others)",
+
+    331: "firewood and chips",
+    332: "electricity (std. unit)",
+
+    334: "kerosene – PDS (litre)",
+    335: "kerosene – other sources (litre)",
+
+    338: "LPG [excl. conveyance]",
+    349: "fuel and light: sub-total",
+
+    # Added detailed DDM items (“&” category)
+    341: "charcoal",
+    343: "biogas / gobar gas",
+    337: "coal",
+    333: "dung cake",
+    344: "petrol (litre) [excl. conveyance]",
+    345: "diesel (litre) [excl. conveyance]",
+    340: "other natural gas (CNG, etc.)",
+    336: "matches (box)",
+    342: "candle (number)",
+    346: "other fuel – miscellaneous"
+}
+
+```
 ---
 
 ```python
