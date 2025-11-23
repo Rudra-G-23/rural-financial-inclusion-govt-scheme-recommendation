@@ -1,8 +1,9 @@
 # Reports
 
 ## Level Wise Reports
+
 ##### **Level 01**
-- Ref: [About Features]()
+- Ref: [About Features](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation/blob/main/parquet-data/lev-01/data/data-dict-level-01.md)
 - Date: 23-11-2025 10:30 IST
 
 ##### **Level 02**
@@ -24,6 +25,10 @@
 ##### **Level 06**
 - Ref: [Report](level-06-analysis-report-v1.pdf)
 - Date: 23-11-2025 18:35 IST
+
+##### **Level 07**
+- Ref: [Report](level-07-analysis-report-v1.pdf)
+- Date: 23-11-2025 19:32 IST
 
 ##### **Level 09**
 - Ref: [Report](level-09-analysis-report-v1.pdf)
