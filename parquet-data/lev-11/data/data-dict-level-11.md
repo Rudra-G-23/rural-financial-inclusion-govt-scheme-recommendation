@@ -61,5 +61,5 @@ Link: https://microdata.gov.in/NADA/index.php/catalog/237/data-dictionary/F11?fi
 | Possess_Refrigerator       | Household possesses one or more Refrigerator(s) as on survey date                                                               |
 | Possess_WashingMachine     | Household possesses one or more Washing Machine(s) as on survey date                                                            |
 | Possess_AirCooler          | Household possesses one or more Air conditioner / Air cooler as on survey date                                                  |
-| TV_Facility_Type           | Type of multichannel television facility used by household                                                                      |
+| TV_Facility_Type           | Type of multichannel television facility used by household {1: television, 2: television, 3:satellite television}                                                                     |
 | Multiplier                 | Sampling Weight / Multiplier                                                                                                    |
