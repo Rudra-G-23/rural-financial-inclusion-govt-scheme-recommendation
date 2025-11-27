@@ -65,6 +65,7 @@
 ---
 
 ## Analysis Reports
+
 ##### **1. Data Quality**
 - Ref: [Report](Data-Quality-Report.pdf)
 - Why: Before Doing anything we need to ensure the quality of data.
@@ -83,3 +84,9 @@
 - Date: 16-11-2025 10:23 IST
 - Why: Understanding the Item duration for better enhancement.
 - From: [Item Code](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation/tree/main/parquet-data/all-level/item-code)
+
+##### **5. Correlation Analysis**
+- Ref: [Report](correlation-analysis-v1.pdf)
+- Date: 27-11-2025 23:01 IST
+- Why: Correlation between filter features.
+- From: [Correlations Code](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation/tree/main/notebooks/correlations-all-levels)
