@@ -10,9 +10,10 @@
 **Folder Structure**
 ```bash
 parquet-data/
-|--all-level/
+|--all-level/     # Mix level code
 |--lev-01/
-  |-- Autoviz/
-  |-- data/
-  |-- notebooks/
+  |-- Autoviz/    # Raw Dataset autoviz 
+  |-- data/       # Raw Dataset & Data dictionary 
+  |-- data2/      # Clean dataset 
+  |-- notebooks/  # All the notebooks for specific levels
 ```

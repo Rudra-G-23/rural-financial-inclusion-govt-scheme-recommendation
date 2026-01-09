@@ -10,6 +10,7 @@ delete/
 chunks/
 parquet-data/lev-02/lev-02-data-convertor.ipynb
 notebooks/correlations-all-levels/corr
+experiment-code/
 
 ### Data ###
 raw-data/
