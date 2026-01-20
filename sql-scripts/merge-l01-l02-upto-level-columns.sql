@@ -17,9 +17,10 @@ Finding:
 4. No Common key is found.
 5. Found only lot of Null values.
 6. Duplicated Data.
-*/
 ============================================================================
+*/
 
+------------------------- Create Temporary view for merging) -------------------------
 -- Level 01
 DROP VIEW IF EXISTS temp_01;
 CREATE TEMP VIEW temp_01 AS 
