@@ -1,5 +1,8 @@
 # Reports
 
+> [HCES Data Story](HCES-DATA-STORY.pdf)
+> Explainable Video [Link](https://youtu.be/SO-5M_YZ_kg)
+
 ## Level Wise Reports
 
 ##### **Level 01**
@@ -90,3 +93,9 @@
 - Date: 27-11-2025 23:01 IST
 - Why: Correlation between filter features.
 - From: [Correlations Code](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation/tree/main/notebooks/correlations-all-levels)
+
+##### **6. HCES Data Story**
+- Ref: [Report](HCES-DATA-STORY.pdf)
+- Date: 23-01-2026 15:33 IST
+- Explainable Video [Link](https://youtu.be/SO-5M_YZ_kg)
+- Why: Understanding the margining technique.
