@@ -24,3 +24,8 @@
   - Created 5 person data point comparison with the district analysis.
   - More deeply in district level view.
   - 20-01-2026 19:35 IST
+
+- [ Experiment with Bihar subset of FSU 27_000](../sql-scripts/exp-bihar-27000-hh-1.sql)
+  - This experiment script on how to merge 
+  - Find out the best possibility way to merge
+  - 26-01-2026 14:52 IST
