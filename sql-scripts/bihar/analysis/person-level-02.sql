@@ -108,6 +108,17 @@ WHERE "State" = '10'
 GROUP BY "District"
 ORDER BY "District";
 
+-- Age range 0 to 20
+SELECT
+	DISTINCT "District",
+	COUNT (*) FILTER (WHERE "Age" BETWEEN 0 AND 5) AS "0-5",
+	COUNT (*) FILTER (WHERE "Age" BETWEEN 6 AND 10) AS "6-10",
+	COUNT (*) FILTER (WHERE "Age" BETWEEN 11 AND 15) AS "11-15",
+	COUNT (*) FILTER (WHERE "Age" BETWEEN 16 AND 20) AS "16-20"
+FROM analytics.level_02_section_3
+WHERE "State" = '10'
+GROUP BY "District";
+
 -- =========================== Education level v/s District ============================
 -- Unique Eduction level
 SELECT
@@ -158,17 +169,17 @@ SELECT
     COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" IN ('7', '07')), 0) AS "07",
     COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" IN ('8', '08')), 0) AS "08",
     COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" IN ('9', '09')), 0) AS "09",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '10'), 0) AS "10",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '11'), 0) AS "11",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '12'), 0) AS "12",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '13'), 0) AS "13",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '14'), 0) AS "14",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '15'), 0) AS "15",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '16'), 0) AS "16",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '17'), 0) AS "17",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '18'), 0) AS "18",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '19'), 0) AS "19",
-    COALESCE(COUNT(*) FILTER (WHERE "Education_Level" = '20'), 0) AS "20"
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '10'), 0) AS "10",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '11'), 0) AS "11",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '12'), 0) AS "12",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '13'), 0) AS "13",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '14'), 0) AS "14",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '15'), 0) AS "15",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '16'), 0) AS "16",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '17'), 0) AS "17",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '18'), 0) AS "18",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '19'), 0) AS "19",
+    COALESCE(COUNT(*) FILTER (WHERE "Years_of_Education" = '20'), 0) AS "20"
 FROM analytics.level_02_section_3
 WHERE "State" = '10'
 GROUP BY "District"
