@@ -99,3 +99,8 @@
 - Date: 23-01-2026 15:33 IST
 - Explainable Video [Link](https://youtu.be/SO-5M_YZ_kg)
 - Why: Understanding the margining technique.
+
+##### **7. How to merge Solution report**
+- Ref: [Report](how-to-merge-solution.pdf)
+- Date: 28-01-2026 17:03 IST
+- Why: Breakdown each level and showcase how to merge each level.
