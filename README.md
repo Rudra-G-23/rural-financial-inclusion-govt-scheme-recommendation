@@ -4,6 +4,7 @@
 
 > [!NOTE]
 > **HCES Data Story [Report](reports/HCES-DATA-STORY.pdf)**
+> 
 > Check out `reports/` folder for more reports
 
 
@@ -21,6 +22,7 @@
 | [![HCES Data Story](https://img.youtube.com/vi/SO-5M_YZ_kg/hqdefault.jpg)](https://www.youtube.com/watch?v=SO-5M_YZ_kg&list=PLbYkMkFiXhYYHtjofXEIewTm_gmEyY1d6&index=2) | [![Find My Joint](https://img.youtube.com/vi/TlMWL8CpebY/hqdefault.jpg)](https://www.youtube.com/watch?v=TlMWL8CpebY&list=PLbYkMkFiXhYYHtjofXEIewTm_gmEyY1d6&index=3) | [![Data Quality Issues](https://img.youtube.com/vi/OcsfaVl5mhA/hqdefault.jpg)](https://www.youtube.com/watch?v=OcsfaVl5mhA&list=PLbYkMkFiXhYYHtjofXEIewTm_gmEyY1d6&index=5) |
 | How data looks like | Apply my own python libaray on 15 datasets. | Problem I found first glance |
 
+> **YT Playlist** [Link](https://youtube.com/playlist?list=PLbYkMkFiXhYYHtjofXEIewTm_gmEyY1d6&si=zu2btKisJmHj3UI6)
 ---
 
 ## 🛠️ How to Merge Datasets (Step-by-Step)
@@ -38,6 +40,8 @@
 | Category Analysis | Data Quality Check | L02 Analysis | Table of Content |
 | :---: | :---: | :---: | :---: |
 | ![Category Analysis](assets/for-readme/category-analysis.png) | ![Data Quality Check](assets/for-readme/data-quality-check.png) | ![L02 Analysis](assets/for-readme/l02-analysis.png) | ![Table of Content](assets/for-readme/table-of-content.png) |
+
+> **All Reports** [Docs](https://github.com/Rudra-G-23/rural-financial-inclusion-govt-scheme-recommendation/tree/main/reports)
 
 ---
 
@@ -152,3 +156,9 @@ The primary data source is the **Household Consumption Expenditure Survey (HCES)
 
 ## 🤝 Contribution
 Contributions to improve data processing pipelines, feature engineering, or scheme recommendation models are welcome. Please use feature branches and submit PRs for review.
+
+---
+
+
+Connect with me: [LinkedIn](https://www.linkedin.com/in/rudraprasadbhuyan/)
+
